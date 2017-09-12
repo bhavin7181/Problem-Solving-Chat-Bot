@@ -1,1 +1,1 @@
-print("Goodbye, World!")
+print("One min change Goodbye, World!")
